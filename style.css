@@ -69,4 +69,10 @@ nav {
   color: rgb(33, 33, 33);
   border: none;
   font-size: 0.7rem;
+  cursor: pointer;
+  transition: background-color 0.5s ease-in;
+}
+
+.cta-btn:hover {
+  background-color: antiquewhite;
 }
