@@ -18,6 +18,8 @@ nav {
 .logo {
   font-size: 1.2rem;
   color: rgb(33, 33, 33);
+  overflow: hidden;
+  letter-spacing: 2px;
 }
 
 .hero-section {
